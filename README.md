@@ -1,19 +1,34 @@
-# Advanced Communication Systems Projects
-## Projects 3, 4, 6, 7: Channel Effects, Equalizers, MIMO Systems, and Practical Systems
-
+# Communication Systems simulation Projects
+## Simulations from the project Channel Effects, Equalizers, MIMO Systems, and Practical Systems
 <table>
   <tr>
-    <td><img src="Figure1.png"/></td>
-    <td><img src="Figure2.png"/></td>
-    <td><img src="Figure3.png"/></td>
+    <td><img src="Figure_1.png"/></td>
+    <td><img src="Figure_2.png"/></td>
+    <td><img src="Figure_3.png"/></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="Figure4.png"/></td>
-    <td><img src="Figure5.png"/></td>
-    <td><img src="Figure6.png"/></td>
+    <td><img src="Figure_4.png"/></td>
+    <td><img src="Figure_5.png"/></td>
+    <td><img src="Figure_6.png"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="Figure_7.png"/></td>
+    <td><img src="Figure_8.png"/></td>
+    <td><img src="Figure_9.png"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="Figure_10.png"/></td>
+    <td><img src="Figure_11.png"/></td>
+    <td><img src="Figure_12.png"/></td>
   </tr>
 </table>
 
